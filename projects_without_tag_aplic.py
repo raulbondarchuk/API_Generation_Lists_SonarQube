@@ -1,0 +1,2 @@
+from master import get_projects_with_duplicate_name, projects
+get_projects_with_duplicate_name(projects)

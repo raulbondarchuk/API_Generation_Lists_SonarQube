@@ -1,0 +1,2 @@
+from master import get_projects_without_tag_aplic, projects
+get_projects_without_tag_aplic(projects)

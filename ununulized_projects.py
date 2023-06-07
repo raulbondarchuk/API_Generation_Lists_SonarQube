@@ -1,0 +1,2 @@
+from master import get_unanalyzed_projects
+get_unanalyzed_projects()
