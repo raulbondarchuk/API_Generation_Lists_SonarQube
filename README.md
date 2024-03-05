@@ -16,7 +16,7 @@ from openpyxl import load_workbook
 import os
 import time # test tiempo de ejecución 
 ```
-Siguiente import sirve para obtener la conexión con SoanrQube API (Hay dos tipos de conexión, el código esta escrito en archivos connection.py y connectionToken.py).
+Siguiente import sirve para obtener la conexión con SonarQube API (Hay dos tipos de conexión, el código esta escrito en archivos connection.py y connectionToken.py).
 ``` python
 from connectionToken import url, session, headers
 ```
